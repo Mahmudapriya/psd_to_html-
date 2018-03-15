@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-height: 700px;
+    background: #FCDB00;
+    overflow: hidden;
+}
+
+.wrapper {
+    width:80%;
+    margin: 0 auto;
+}
+.f_header{
+    height: 150px;
+}
+.left_side_header {
+    width: 50%;
+    float: left;
+}
+
+
+.logo{
+    height: 164px;
+}
+.logo img{
+    float: left;
+    padding-top: 64px;
+}
+.logo h1{
+float: right;
+padding-right: 67%;
+padding-top: 65px;
+font-family: 'PT Sans', sans-serif;
+    font-size: 30px;
+}
+
+
+
+.right_side_header {
+    width: 50%;
+    float: right;
+}
+
+
+.nav {
+    width: 100%;
+    
+}
+.nav ul{
+    list-style: none;
+    
+}
+.nav ul li{
+    float: left;
+        padding: 52px 30px;
+}
+.nav ul li a{
+      text-decoration: none;
+    font-size: 26px;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: black;
+    
+}
+
+
+.s_header{
+    height: 450px;
+    width: 100%;
+    
+}
+.left_header{
+    float: left;
+    width: 51%;
+}
+.header_text{
+    
+}
+
+
+.header_text h1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #010101;
+    font-family: sans-serif;
+     padding: 34px 20px;
+}
+.header_text h2{
+    color: #523841;
+    font-weight: 100;
+    margin: 12px 0px;
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 0px 20px;
+}
+.header_text p{
+ color: #523841;
+    font-weight: 100;
+    margin: 12px 0px;
+     padding: 0px 20px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+
+
+
+.header_logo{
+    
+    
+}
+.header_logo img{
+        padding-right: 37px;
+    margin-left: 19px;
+}
+
+
+.right_header{
+     width: 47%;
+    float: right;
+    margin: 0px -34px;
+}
+.box{
+    width: 65%;
+    background-color: white;
+    height:500px;
+    border: 1px solid white;
+    border-radius: 35px;
+}
+.b_wrapper{
+    width: 85%;
+    height: 450px;
+    background-color: black;
+    margin: 26px 24px;
+}
+.box_wrapper{
+    width: 40%;
+    height: 100px;
+    padding: 176px 1px;
+    margin: 0px 59px;
+}
+.box_wrapper img{
+    float: left;
+    width: 30%;
+}
+.box_wrapper h1{
+   color: #FCDB00;
+    float: right;
+    width: 60%;
+    letter-spacing: 1px;
+    font-size: 40px;
+}
+
+
+
+section{
+    min-height: 570px;
+}
+.text_full{}
+.text_full div{
+    
+    float: left;
+    padding: 16px;
+}
+.top_text {
+    height: 150px;
+    padding: 82px 68px;
+}
+
+.top_text h1{
+    text-transform: capitalize;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 31px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.top_text pre{
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.text_content{
+    width: 30%;
+    height: 150px;
+   
+}
+.text_content img{
+    float: left;
+}
+.text_content h2{
+ float: right;
+padding-right: 20%;
+text-transform: capitalize;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+.text_content p{
+    padding-top: 36px;
+padding-left: 23%;
+    color: #898989;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+}
+
+
+
+footer{
+    min-height: 850px;
+    background-color: black;
+}
+.top_text .top {
+    color: yellow;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 31px;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 26px 0px;
+}
+
+.top_text p{
+    color: darkgrey;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+
+
+input{
+
+        font-size: 20px;
+    padding: 24px 203px;
+    margin: -46px 205px;
+    border: 1px solid  white;
+    border-radius: 18px;
+}
+button{
+        padding:24px 48px;
+    margin: 0px -199px;
+    border: 1px solid  yellow;
+    border-radius: 18px;
+    background-color: yellow;
+        font-size: 20px;
+}
+
+
+
+
+.footer_logo{
+    
+    padding: 76px 335px;
+}
+.footer_logo img{
+        padding-right: 37px;
+    margin-left: 19px;
+}
+
+.nav_footer{
+
+}
+.nav_footer ul{
+    list-style: none;
+    float: left;
+    padding: 18px 61px;
+    margin: 27px 7px;
+}
+.nav_footer ul li{
+
+    
+}
+.nav_footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
